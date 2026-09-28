@@ -1,6 +1,6 @@
 # Hi there
 # 💫 About Me:
-🧠​ I am an ECE Undergraduate at NIT Jalandhar<br>​🌌​ I am an aspiring Data Science and AI/ML Engineer<br>​🎥 I am currently working on an F1 database Management Project combining SQL,Python and ML
+🧠​ I am an ECE Undergraduate at NIT Jalandhar<br>​🌌​ I am an aspiring Data and Software Engineer<br>​🎥 I am currently working on an F1 database Management Project combining SQL,Python and ML
 
 
 ## 🌐 Socials:
